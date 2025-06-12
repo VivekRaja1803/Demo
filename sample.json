@@ -1,12 +1,12 @@
 [
     {
         "OrderID": "001",
-        "CustomerName": "Vivek",
+        "CustomerID": "ZC01",
         "AmountPaid": 100
     },
     {
         "OrderID": "002",
-        "CustomerName": "Adam",
+        "CustomerID": "ZC02",
         "AmountPaid": 150
     }
 ]
