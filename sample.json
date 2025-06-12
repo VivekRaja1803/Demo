@@ -4,14 +4,14 @@
         "CustomerID": "ZC01",
         "OrderDate": "2024-12-02",
         "UpdatedDate": "2024-12-03",
-        "AmountPaid": 100.0
+        "AmountPaid": 130.0
     },
     {
         "OrderID": "002",
         "CustomerID": "ZC02",
         "OrderDate": "2025-01-01",
         "UpdatedDate": "2025-01-03",
-        "AmountPaid": 150.0
+        "AmountPaid": 180.0
     },
     {
         "OrderID": "003",
@@ -19,5 +19,12 @@
         "OrderDate": "2025-05-12",
         "UpdatedDate": "2025-05-15",
         "AmountPaid": 200.0
+    },
+    {
+        "OrderID": "004",
+        "CustomerID": "ZC04",
+        "OrderDate": "2025-05-17",
+        "UpdatedDate": "2025-05-20",
+        "AmountPaid": 250.0
     }
 ]
