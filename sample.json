@@ -2,11 +2,11 @@
     {
         "OrderID": "001",
         "CustomerID": "ZC01",
-        "AmountPaid": 100
+        "AmountPaid": 100.0
     },
     {
         "OrderID": "002",
         "CustomerID": "ZC02",
-        "AmountPaid": 150
+        "AmountPaid": 150.0
     }
 ]
