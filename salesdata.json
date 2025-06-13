@@ -1,15 +1,15 @@
 [
   {
     "event_id": "E01",
-    "event_type": "cancel",
+    "event_type": "Purchase",
     "customer_id": "C01",
     "event_timestamp" : "2025-06-10",
     "payment_method": "CC",
     "product_id": "P01",
     "product_category": "Electronics",
-    "amount": 100,
+    "amount": 100.0,
     "location": "Chennai",
-    "status": "Cancelled"
+    "status": "Ordered"
   },
   {
     "event_id": "E02",
@@ -19,9 +19,21 @@
     "payment_method": "CC",
     "product_id": "P02",
     "product_category": "Food",
-    "amount": 100,
+    "amount": 101.0,
     "location": "Hyderabad",
     "status": "Cancelled"
+  },
+  {
+    "event_id": "E03",
+    "event_type": "Purchase",
+    "customer_id": "C03",
+    "event_timestamp" : "2025-05-13",
+    "payment_method": "NetBanking",
+    "product_id": "P03",
+    "product_category": "Groceries",
+    "amount": 10.0,
+    "location": "Bangalore",
+    "status": "Ordered"
   }
 ]
   
