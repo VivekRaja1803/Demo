@@ -1,0 +1,28 @@
+[
+  {
+    "event_id": "E01",
+    "event_type": "cancel",
+    "customer_id": "C01",
+    "event_timestamp" : "2025-06-10",
+    "payment_method": "CC",
+    "product_id": "P01",
+    "product_category": "Electronics",
+    "amount": 100,
+    "location": "Chennai",
+    "status": "Cancelled"
+  },
+  {
+    "event_id": "E02",
+    "event_type": "cancel",
+    "customer_id": "C02",
+    "event_timestamp" : "2025-05-03",
+    "payment_method": "CC",
+    "product_id": "P02",
+    "product_category": "Food",
+    "amount": 100,
+    "location": "Hyderabad",
+    "status": "Cancelled"
+  }
+]
+  
+    
